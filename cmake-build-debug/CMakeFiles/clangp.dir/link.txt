@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/clangp.dir/struct.c.o CMakeFiles/clangp.dir/linkedList.c.o CMakeFiles/clangp.dir/main.c.o -o clangp 

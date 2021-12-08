@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+<<<<<<< HEAD
+  <component name="CMakeWorkspace">
+    <contentRoot DIR="$PROJECT_DIR$" />
+  </component>
+=======
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+>>>>>>> 2c2c4b03625007e7966ff519d7cd67a1368f90dc
+</project>

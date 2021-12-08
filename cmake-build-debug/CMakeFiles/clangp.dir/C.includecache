@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/spacechae/CLionProjects/clangp/struct.c
+struct.h
+/Users/spacechae/CLionProjects/clangp/struct.h
+
+/Users/spacechae/CLionProjects/clangp/struct.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
